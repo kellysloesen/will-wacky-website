@@ -7,4 +7,4 @@ I've forked Will's website and added some adjustments:
 - Changed and added some text
 - changed the profile picture in the HTML
 
-https://github.com/kellysloesen/will-wacky-website
+I've also put it[online] https://kellysloesen.github.io/will-wacky-website/
