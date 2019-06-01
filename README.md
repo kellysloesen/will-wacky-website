@@ -12,3 +12,4 @@ I've also put it [online] (https://kellysloesen.github.io/will-wacky-website/)
 
 This was my added picture
 ![GitHub Logo](/images/kitten@2x.jpeg)
+Format: ![Kitten]
